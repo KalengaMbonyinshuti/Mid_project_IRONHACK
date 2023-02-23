@@ -1,0 +1,11 @@
+data:
+  RAW: "../data/RAW/"
+  CLEAN: "../data/FINAL/"
+
+train:
+  test_size: 0.2
+  random_state: 42
+
+models: "../models/"
+
+scalers: "../scalers/"
