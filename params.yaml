@@ -1,6 +1,6 @@
 data:
   RAW: "../data/RAW/"
-  CLEAN: "../data/FINAL/"
+  CLEAN: "../data/CLEAN/"
 
 train:
   test_size: 0.2
@@ -9,3 +9,7 @@ train:
 models: "../models/"
 
 scalers: "../scalers/"
+
+transformers: "../transformers/"
+
+encoders: "../encoders/"
